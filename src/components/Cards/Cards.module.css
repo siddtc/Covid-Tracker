@@ -1,0 +1,20 @@
+
+
+.card
+{
+    margin : 0 3% !important;
+}
+.infected
+{
+    border-bottom: 5px solid rgb(0, 0, 255);
+}
+
+.recovered
+{
+    border-bottom: 5px solid rgb(0, 255, 0);
+}
+
+.deaths
+{
+    border-bottom: 5px solid rgb(255, 0, 0);
+}
